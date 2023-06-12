@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmadilkom
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning anything
 - 💞️ I’m looking to collaborate on a project 
 - 📫 How to reach me on this number, +62857 7181 0008
 
